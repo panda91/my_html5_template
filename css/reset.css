@@ -18,6 +18,7 @@ time, mark, audio, video {
 	font: inherit;
 	vertical-align: baseline;
         font-family: Arial, Helvetical, sans-serif;
+    behavior: url(whateverhover.htc);
 }
 img, div{
     behavior: url(iepngfix.htc);
