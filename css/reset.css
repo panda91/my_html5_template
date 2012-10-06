@@ -20,6 +20,9 @@ time, mark, audio, video {
         font-family: Arial, Helvetical, sans-serif;
     behavior: url(whateverhover.htc);
 }
+ol, ul, li, dl, dt, dd{
+	list-style:none;
+}
 img, div{
     behavior: url(iepngfix.htc);
 }
